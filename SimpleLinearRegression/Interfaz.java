@@ -1,4 +1,4 @@
-package examples.HandsOn4;
+package examples.SimpleLinearRegression;
 
 
 import jade.core.Agent;
