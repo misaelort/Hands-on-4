@@ -1,4 +1,4 @@
-package examples.SLR;
+package examples.HandsOn4;
 
 
 import jade.core.Agent;
